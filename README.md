@@ -26,3 +26,20 @@ No projeto **AluraBooks**, o design é implementado com base nessa filosofia, co
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/12858daf-52f2-430a-b414-f528f833d129)
+
+![image](https://github.com/user-attachments/assets/0aa0e749-b60e-4567-9974-35ee779f571d)
+
+![image](https://github.com/user-attachments/assets/816b58cf-25b3-45aa-b81d-635ca4c2ee1e)
+
+![image](https://github.com/user-attachments/assets/7732c59d-16dc-43e5-ab54-4c70f0a79881)
+
+![image](https://github.com/user-attachments/assets/cd448637-3eea-4012-983e-5726f9110a65)
+
+![image](https://github.com/user-attachments/assets/b915e3fe-12f8-4425-b000-43c28b854888)
+
+
+
+
+
+
